@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando programa...
+start powershell -ExecutionPolicy Bypass -File ".\ryu-tui.ps1"
