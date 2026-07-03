@@ -1,12 +1,29 @@
 ﻿<div align="center">
 
-```
-___.               __________.__        __                       
-\_ |__ ___.__. /\  \______   \__|__ ___/  |_  ____ ___  _____ __ 
- | __ <   |  | \/   |       _/  |  |  \   __\/ __ \\  \/  /  |  \
- | \_\ \___  | /\   |    |   \  |  |  /|  | \  ___/ >    <|  |  /
- |___  / ____| \/   |____|_  /__|____/ |__|  \___  >__/\_ \____/ 
-     \/\/                  \/                    \/      \/      
+                                                                                                                                      
+                                                                                                                                      
+RRRRRRRRRRRRRRRRR                                                               TTTTTTTTTTTTTTTTTTTTTTTUUUUUUUU     UUUUUUUUIIIIIIIIII
+R::::::::::::::::R                                                              T:::::::::::::::::::::TU::::::U     U::::::UI::::::::I
+R::::::RRRRRR:::::R                                                             T:::::::::::::::::::::TU::::::U     U::::::UI::::::::I
+RR:::::R     R:::::R                                                            T:::::TT:::::::TT:::::TUU:::::U     U:::::UUII::::::II
+  R::::R     R:::::Ryyyyyyy           yyyyyyyuuuuuu    uuuuuu                   TTTTTT  T:::::T  TTTTTT U:::::U     U:::::U   I::::I  
+  R::::R     R:::::R y:::::y         y:::::y u::::u    u::::u                           T:::::T         U:::::D     D:::::U   I::::I  
+  R::::RRRRRR:::::R   y:::::y       y:::::y  u::::u    u::::u                           T:::::T         U:::::D     D:::::U   I::::I  
+  R:::::::::::::RR     y:::::y     y:::::y   u::::u    u::::u   ---------------         T:::::T         U:::::D     D:::::U   I::::I  
+  R::::RRRRRR:::::R     y:::::y   y:::::y    u::::u    u::::u   -:::::::::::::-         T:::::T         U:::::D     D:::::U   I::::I  
+  R::::R     R:::::R     y:::::y y:::::y     u::::u    u::::u   ---------------         T:::::T         U:::::D     D:::::U   I::::I  
+  R::::R     R:::::R      y:::::y:::::y      u::::u    u::::u                           T:::::T         U:::::D     D:::::U   I::::I  
+  R::::R     R:::::R       y:::::::::y       u:::::uuuu:::::u                           T:::::T         U::::::U   U::::::U   I::::I  
+RR:::::R     R:::::R        y:::::::y        u:::::::::::::::uu                       TT:::::::TT       U:::::::UUU:::::::U II::::::II
+R::::::R     R:::::R         y:::::y          u:::::::::::::::u                       T:::::::::T        UU:::::::::::::UU  I::::::::I
+R::::::R     R:::::R        y:::::y            uu::::::::uu:::u                       T:::::::::T          UU:::::::::UU    I::::::::I
+RRRRRRRR     RRRRRRR       y:::::y               uuuuuuuu  uuuu                       TTTTTTTTTTT            UUUUUUUUU      IIIIIIIIII
+                          y:::::y                                                                                                     
+                         y:::::y                                                                                                      
+                        y:::::y                                                                                                       
+                       y:::::y                                                                                                        
+                      yyyyyyy                                                                                                         
+                                                                                                                                      
 ```
 
 ### **Toolkit Profesional de Operaciones del Sistema**
